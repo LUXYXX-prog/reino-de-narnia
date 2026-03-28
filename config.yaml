@@ -1,12 +1,12 @@
 #Bot language/Язык ботов (en_US ru_RU uk_UA de_DE)
-language: "en_US"
+language: "pt_BR"
 #Server IP/Айпи адрес сервера
-ip: "localhost"
+ip: "RNarnia.aternos"
 #Server Port/Порт сервера
-port: 25565
+port: 29687
 #Bot password/Пароль ботов
 password: "123412341234"
 #Delay between connections (in ms)/Задержка между подключениями (в мс)
 interval: 8000
 #Minecraft version/Версия майнкрафта
-version: "1.18.2"
+version: "1.21.11"
