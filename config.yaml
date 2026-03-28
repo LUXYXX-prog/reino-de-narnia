@@ -9,4 +9,4 @@ password: "123412341234"
 #Delay between connections (in ms)/Задержка между подключениями (в мс)
 interval: 8000
 #Minecraft version/Версия майнкрафта
-version: "1.21.11"
+version: "1.18.1"
