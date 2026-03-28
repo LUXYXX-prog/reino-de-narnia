@@ -1,5 +1,5 @@
 #Bot language/Язык ботов (en_US ru_RU uk_UA de_DE)
-language: "pt_BR"
+language: "en_US"
 #Server IP/Айпи адрес сервера
 ip: "RNarnia.aternos"
 #Server Port/Порт сервера
